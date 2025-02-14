@@ -1,6 +1,6 @@
 # K-UniDive
 
-Jungyeul Park, Yige Chen, Kyuwon Kim, KyungTae Lim, Chulwoo Park
+Jungyeul Park, Yige Chen, Kyuwon Kim, KyungTae Lim, Chulwoo Park (February, 2025)
 
 ## Morphosyntactic features for Korean
 
