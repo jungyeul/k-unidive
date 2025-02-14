@@ -1,6 +1,8 @@
 # K-UniDive
 
-- Jungyeul Park, Yige Chen, Kyuwon Kim, KyungTae Lim, Chulwoo Park
+Jungyeul Park, Yige Chen, Kyuwon Kim, KyungTae Lim, Chulwoo Park
+
+## Morphosyntactic features for Korean
 
 | **Feature** | **Subcategory** | **Example** | **Description** |
 |------------|---------------|-------------|-----------------|
@@ -59,6 +61,7 @@
 |  | Passive (`Voice=Pass`) | 먹혔다 *meokhyeotda*, 잡혔다 *japhyeotda* | 'was eaten', 'was caught' (action performed on the subject) |
 |  | Reciprocal (`Voice=Rcp`) | 만났다 *mannatda*, 싸웠다 *ssawotda* | 'met each other', 'fought each other' (mutual action between subjects) |
 |  | Reflexive (`Voice=Rfl`) | 씻었다 *ssiseotda*, 숨었다 *sumeotda* | 'washed oneself', 'hid oneself' (subject performs action on itself) |
+
 
 
 ## Correcting POS labels in GSD
