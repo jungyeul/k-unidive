@@ -4335,7 +4335,7 @@
 6	악마는	악마+는	NOUN	NNG+JX	Case=Nom	9	nsubj	_	_
 7	서로	서로	ADV	MAG	PronType=Rcp	9	advmod	_	_
 8	싸움을	싸움+을	NOUN	NNG+JKO	Case=Acc	9	obj	_	_
-9	벌였다	벌이+었+다	VERB	VV+EP+EF	MOOD=Ind|VerbForm=Fin|Voice=Pass|Voice=Rcp	0	root	_	SpaceAfter=No
+9	벌였다	벌이+었+다	VERB	VV+EP+EF	MOOD=Ind|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No
 10	.	.	PUNCT	SF	_	9	punct	_	_
 
 # sent_id = test-s266

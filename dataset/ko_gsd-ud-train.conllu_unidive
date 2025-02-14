@@ -15357,7 +15357,7 @@
 5	함께	함께	ADV	MAG	_	8	advmod	_	_
 6	도서관의	도서관+의	NOUN	NNG+JKG	Case=Gen	7	det:poss	_	_
 7	수호신으로	수호신+으로	NOUN	NNG+JKB	_	8	obl	_	_
-8	받아들여졌다	받아들이+어+지+었+다	VERB	VV+EC+VX+EP+EF	MOOD=Ind|VerbForm=Fin|Voice=Pass|Voice=Rcp	0	root	_	SpaceAfter=No
+8	받아들여졌다	받아들이+어+지+었+다	VERB	VV+EC+VX+EP+EF	MOOD=Ind|VerbForm=Fin|Voice=Pass	0	root	_	SpaceAfter=No
 9	.	.	PUNCT	SF	_	8	punct	_	_
 
 # sent_id = train-s961
