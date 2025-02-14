@@ -1,5 +1,7 @@
 # k-unidive
 
+- Jungyeul Park, Yige Chen, Kyuwon Kim, KyungTae Lim, Chulwoo Park
+
 | **Feature** | **Subcategory** | **Example** | **Description** |
 |------------|---------------|-------------|-----------------|
 | **Aspect** | Habitual (`Aspect=Hab`) | 하곤 했다 *hagon haetda* | 'used to' (repeated or habitual actions in the past) |
