@@ -1,4 +1,4 @@
-# k-unidive
+# K-UniDive
 
 - Jungyeul Park, Yige Chen, Kyuwon Kim, KyungTae Lim, Chulwoo Park
 
