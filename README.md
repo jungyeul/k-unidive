@@ -49,6 +49,11 @@
 | **Tense** | Present (`Tense=Pres`) | 먹는다 *meokneunda*, 공부한다 *gongbuhanda* | 'eats', 'studies' (present or habitual action) |
 |  | Past (`Tense=Past`) | 먹었다 *meogeotda*, 공부했다 *gongbuhaetda* | 'ate', 'studied' (completed action in the past) |
 | **VerbForm** | Converb (`VerbForm=Conv`) | 먹고 *meokgo*, 공부하며 *gongbuhamyeo* | 'eating', 'while studying' (expressing simultaneous or sequential actions) |
+|  | Finite (`VerbForm=Fin`) | 먹는다 *meokneunda*, 공부한다 *gongbuhanda* | 'eats', 'studies' (main finite verb in a clause) |
+|  | Participle (`VerbForm=Part`) | 먹은 *meogeun*, 공부한 *gongbuhan* | 'eaten', 'studied' (adjectival participle modifying a noun) |
+|  | Verbal Noun (`VerbForm=Vnoun`) | 먹기 *meokgi*, 공부하기 *gongbuhagi* | 'eating', 'studying' (verbal noun used as a subject or object) |
 | **Voice** | Causative (`Voice=Cau`) | 먹였다 *meogyeotda*, 울렸다 *ullyeotda* | 'made someone eat', 'made someone cry' (causative action forced by subject) |
-
-This should be properly displayed in GitHub-style markdown format. Let me know if you need further refinements! 🚀
+|  | Causative-Passive (`Voice=CauPass`) | 보였다 *boyeotda*, 들렸다 *deullyeotda* | 'was shown', 'was heard' (causative-passive meaning) |
+|  | Passive (`Voice=Pass`) | 먹혔다 *meokhyeotda*, 잡혔다 *japhyeotda* | 'was eaten', 'was caught' (action performed on the subject) |
+|  | Reciprocal (`Voice=Rcp`) | 만났다 *mannatda*, 싸웠다 *ssawotda* | 'met each other', 'fought each other' (mutual action between subjects) |
+|  | Reflexive (`Voice=Rfl`) | 씻었다 *ssiseotda*, 숨었다 *sumeotda* | 'washed oneself', 'hid oneself' (subject performs action on itself) |
