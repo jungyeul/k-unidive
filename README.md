@@ -64,3 +64,8 @@ Jungyeul Park, Yige Chen, Kyuwon Kim, KyungTae Lim, Chulwoo Park (February, 2025
 
 
 
+###  CC BY-SA 4.0
+Our Korean UniDive dataset, derived from the Universal Dependencies (UD) Korean GSD Treebank, is distributed under the Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0). This license allows users to share (copy and redistribute the material in any medium or format) and adapt (remix, transform, and build upon the material for any purpose, including commercial use), provided that proper attribution is given to the original dataset and that any derivative works are released under the same license. By using the Korean UniDive dataset, you agree to comply with the CC BY-SA 4.0 license terms, ensuring openness and accessibility for the research community.
+
+
+
