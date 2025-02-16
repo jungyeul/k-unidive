@@ -1,4 +1,4 @@
-## Correcting POS labels in GSD
+## Correcting POS labels in Koraen GSD
 
 Each word in the new Korean UniDive dataset is augmented with UniMorph-derived features.  
 We apply deterministic rules to assign UniMorph features based on morphological patterns observed in the surface form, leveraging both UPOS (Universal POS) and XPOS (language-specific POS).  
