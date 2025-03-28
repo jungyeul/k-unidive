@@ -2,7 +2,7 @@
 * Mar 27, 2025: r1 -- revised version following UniDive’s guidelines
   - Distinguishes functional words using the “|” delimiter
   - Adds transcription for EC (conjunctive verbal endings)
-  - Corrects incorrect use of Tense=Past
+  - Corrects Tense=Past
 * Feb 13, 2025: r0 -- initial version of K-UniDive
 
 ## Correcting POS labels in Koraen GSD
